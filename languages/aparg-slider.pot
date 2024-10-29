@@ -1,0 +1,337 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: APARG Slider\n"
+"POT-Creation-Date: 2016-07-17 15:30+0400\n"
+"PO-Revision-Date: 2016-07-01 13:16+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: aparg-slider.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: aparg-slider-form.php:9
+msgid "Slider"
+msgstr ""
+
+#: aparg-slider-form.php:117
+msgid "Aparg Slider Plugin"
+msgstr ""
+
+#: aparg-slider-form.php:118
+msgid "Developed by"
+msgstr ""
+
+#: aparg-slider-form.php:120
+msgid "Submit Notifications"
+msgstr ""
+
+#: aparg-slider-form.php:121
+msgid "You must upload at least 2 items, before submiting!"
+msgstr ""
+
+#: aparg-slider-form.php:124
+msgid "Add Slider Notifications"
+msgstr ""
+
+#: aparg-slider-form.php:125
+msgid "You should add slider by clicking on "
+msgstr ""
+
+#: aparg-slider-form.php:128
+msgid "Delete Slide Notifications"
+msgstr ""
+
+#: aparg-slider-form.php:129
+msgid "Are you sure to delete this slide?"
+msgstr ""
+
+#: aparg-slider-form.php:132
+msgid "Delete Description Notifications"
+msgstr ""
+
+#: aparg-slider-form.php:133
+msgid "Are you sure to delete this slide description?"
+msgstr ""
+
+#: aparg-slider-form.php:136
+msgid "Limit Description Count"
+msgstr ""
+
+#: aparg-slider-form.php:137
+msgid "Sorry, but you pass descriptions limit(4 descriptions of each slide)."
+msgstr ""
+
+#: aparg-slider-form.php:166
+msgid "Add slide"
+msgstr ""
+
+#: aparg-slider-form.php:229
+msgid "Close media panel"
+msgstr ""
+
+#: aparg-slider-form.php:231 aparg-slider-form.php:257
+#: aparg-slider-form.php:258
+msgid "Add Video"
+msgstr ""
+
+#: aparg-slider-form.php:237
+msgid "Youtube/Vimeo URL"
+msgstr ""
+
+#: aparg-slider-form.php:242
+msgid "Add"
+msgstr ""
+
+#: aparg-slider-form.php:254
+msgid "Slides"
+msgstr ""
+
+#: aparg-slider-form.php:255 aparg-slider-form.php:256
+msgid "Add Image"
+msgstr ""
+
+#: aparg-slider-form.php:275 aparg-slider.php:230
+msgid "Click to change image"
+msgstr ""
+
+#: aparg-slider-form.php:278 aparg-slider.php:231
+msgid "Add Description"
+msgstr ""
+
+#: aparg-slider-form.php:280
+msgid "Delete Descriptions"
+msgstr ""
+
+#: aparg-slider-form.php:282 aparg-slider.php:234
+msgid "Set"
+msgstr ""
+
+#: aparg-slider-form.php:285
+msgid "Please insert a valid video link"
+msgstr ""
+
+#: aparg-slider-form.php:291
+msgid "Type a description"
+msgstr ""
+
+#: aparg-slider-form.php:418
+msgid "Settings"
+msgstr ""
+
+#: aparg-slider-form.php:419
+msgid "Save"
+msgstr ""
+
+#: aparg-slider-form.php:426
+msgid "Slider Width"
+msgstr ""
+
+#: aparg-slider-form.php:427
+msgid "(Format: in px or %)"
+msgstr ""
+
+#: aparg-slider-form.php:443
+msgid "Slider Height"
+msgstr ""
+
+#: aparg-slider-form.php:444
+msgid "Format: in px or"
+msgstr ""
+
+#: aparg-slider-form.php:451
+msgid "auto"
+msgstr ""
+
+#: aparg-slider-form.php:457
+msgid "Slide Show Speed"
+msgstr ""
+
+#: aparg-slider-form.php:461
+msgid "Description Speed"
+msgstr ""
+
+#: aparg-slider-form.php:465
+msgid "Description Background Color"
+msgstr ""
+
+#: aparg-slider-form.php:470
+msgid "Description Text Color"
+msgstr ""
+
+#: aparg-slider-form.php:474
+msgid "Animation"
+msgstr ""
+
+#: aparg-slider-form.php:478
+msgid "Fade"
+msgstr ""
+
+#: aparg-slider-form.php:479
+msgid "Slide"
+msgstr ""
+
+#: aparg-slider-form.php:484
+msgid "Animation Speed"
+msgstr ""
+
+#: aparg-slider-form.php:485
+msgid "Please set Animation Speed</br> less than Slide Show Speed"
+msgstr ""
+
+#: aparg-slider-form.php:488
+msgid "Carousel"
+msgstr ""
+
+#: aparg-slider-form.php:495
+msgid "Carousel Item Width"
+msgstr ""
+
+#: aparg-slider-form.php:499
+msgid "Randomize"
+msgstr ""
+
+#: aparg-slider-form.php:505
+msgid "Paging Navigation"
+msgstr ""
+
+#: aparg-slider-form.php:512
+msgid "Direction Navigation"
+msgstr ""
+
+#: aparg-slider-form.php:518
+msgid "Pause On Hover"
+msgstr ""
+
+#: aparg-slider-form.php:524
+msgid "Autoplay"
+msgstr ""
+
+#: aparg-slider-form.php:532
+msgid "Delete This Slider"
+msgstr ""
+
+#: aparg-slider-form.php:540
+msgid "Usage"
+msgstr ""
+
+#: aparg-slider-form.php:545
+msgid "Shortcode"
+msgstr ""
+
+#: aparg-slider-form.php:551
+msgid "Template Include"
+msgstr ""
+
+#: aparg-slider-form.php:564
+msgid "Add My First Slider"
+msgstr ""
+
+#: aparg-slider.php:164
+msgid "Hi, this is a Aparg Slider help"
+msgstr ""
+
+#: aparg-slider.php:165
+msgid ""
+"To use our slider plugin at first you should add a slider by clicking on  "
+"the '+' tab"
+msgstr ""
+
+#: aparg-slider.php:166
+msgid ""
+"Then you'll see default slider settings on right side and blank area on the "
+"left side where you can add slides(click 'Add Images') with their "
+"descriptions('Add Description')"
+msgstr ""
+
+#: aparg-slider.php:167
+msgid "After that save current slide information"
+msgstr ""
+
+#: aparg-slider.php:168
+msgid "Our slider plugin advantages"
+msgstr ""
+
+#: aparg-slider.php:170
+msgid "Add 4 descriptions to each slide"
+msgstr ""
+
+#: aparg-slider.php:171
+msgid "Change slide images by clicking on them"
+msgstr ""
+
+#: aparg-slider.php:172
+msgid "Delete descriptions, slides, entire sliders"
+msgstr ""
+
+#: aparg-slider.php:174
+msgid "Note"
+msgstr ""
+
+#: aparg-slider.php:174
+msgid ""
+"If all descriptions are empty their options(background and text color) are "
+"inactive"
+msgstr ""
+
+#: aparg-slider.php:175
+msgid ""
+"It not suggest to put slide show speed less than animation speed, it may "
+"cause slider undesirable  behavior"
+msgstr ""
+
+#: aparg-slider.php:181
+msgid "Aparg Slider Help"
+msgstr ""
+
+#: aparg-slider.php:227
+msgid "Leaving this page will cause any unsaved data to be lost."
+msgstr ""
+
+#: aparg-slider.php:228
+msgid "Please insert a valid video link."
+msgstr ""
+
+#: aparg-slider.php:232
+msgid "Delete Description"
+msgstr ""
+
+#: aparg-slider.php:233
+msgid "Type Description"
+msgstr ""
+
+#: aparg-slider.php:235
+msgid "Choose high resolution image"
+msgstr ""
+
+#: aparg-slider.php:236
+msgid "Sorry can't find thumbnail for this video"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Aparg Slider"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Aparg Slider is image and video slider with descriptions for each slide and "
+"smooth animations."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Aparg"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://aparg.com/"
+msgstr ""

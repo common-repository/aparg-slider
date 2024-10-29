@@ -1,0 +1,111 @@
+.apargSlider ul,.apargSlider li,.apargSlider ol,.apargSlider a, .apargSlider p,.apargSlider div {
+    border: none !important;
+    font-family: inherit;
+    font-size: 100%;
+    font-style: inherit;
+    font-weight: inherit;
+    margin: 0;
+    outline: 0;
+    padding: 0;
+    vertical-align: baseline;
+}
+.apargSlider ul,.apargSlider li{
+    list-style: none;
+}
+.apargSlider a:hover,.apargSlider a:active,.apargSlider a:focus{
+    outline: 0 !important;
+    border:none!important;
+    color:transparent;
+}
+.apargSlider a{
+    color:transparent;
+}
+
+.wholesized{height:100% !important;}
+.apargSlider .flexslider{ margin:0 !important; overflow: hidden; }
+.apargSlider .flexslider .slides{ height: 100% !important; }
+.flex-control-nav li { margin: 0 6px; }
+#wrapper .flexslider {
+    margin: 0;
+    overflow:hidden;
+}
+#wrapper .flexslider img{
+    max-width: none;
+}
+ul.flex-direction-nav a{
+    width: 40px;
+    height: 40px;
+    margin-right:10px;
+    margin-left:10px;
+}
+.apargSlider .flexslider ul.slides li img{ width: 100%; }
+.apargSlider .flexslider .flex-control-nav{
+    bottom: 5px !important;
+    height: 20px;
+}
+.apargSlider .flexslider ul.slides li {
+    position: relative;
+    overflow:hidden;
+    margin-left:0;	
+}
+
+.apargSlider .flexslider ul.slides li.fixHeight{
+    position: absolute !important;
+    top:0;
+    backface-visibility: hidden;
+}
+.apargSlider .flexslider ul li, .apargSlider .flexslider ol li, .apargSlider .flexslider ol, .apargSlider .flexslider ul{
+    padding: 0;
+}
+.flexslider ul.slides li .captionWrapper{
+    position: absolute;
+    left: 10%;
+    top: 10%;
+}
+.flexslider ul.slides li .flex-caption {	
+    position:relative;
+    display: inline-block;	
+    margin-right:100%;
+    margin-top:0;
+    font-weight: bold;
+    border-width: 0px;
+    border-style: none;
+    white-space:nowrap;
+}
+.videoPlayImage{
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;
+    -moz-backface-visibility: hidden;
+    position: absolute;
+    width: 30% !important;
+    max-width: 100px !important;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    cursor: pointer;
+    border: none;
+    opacity: 0.6;
+    -moz-opacity:0.5;
+    -khtml-opacity: 0.5;
+    filter: alpha(opacity=50);
+}
+.videoPlayImage:hover{
+    opacity: 0.8;
+}
+.apargIframe{
+    z-index: 500;
+    margin-bottom: 0 !important;
+    backface-visibility: hidden;
+}
+.flex-caption a{
+    text-decoration: none;
+    border-bottom: none;
+
+}
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {  
+    .flexslider ul.slides li {
+        margin:0px;
+    }
+}
